@@ -58,22 +58,7 @@ const HomePage = () => {
             </div>
           </div>
 
-          <div className="col col-12 col-sm-12 col-md-4 col-lg-4 col-xl-3 col-xxl-3">
-            <div class="card">
-              <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxW0vxekzrOGprKjsb4vNqawbj24TQJbOlNkQ-gnbvTA&s"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Sree Buddha College of Engineering, Pattoor
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div className="col col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+          <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
             <p>
               Sree Buddha College of Engineering, nestled in the serene locale
               of Pattoor, is a beacon of technical education in Kerala, India.
@@ -99,20 +84,40 @@ const HomePage = () => {
               make meaningful contributions to society. With a focus on
               innovation and entrepreneurship, Sree Buddha College of
               Engineering instills in its students the values of creativity,
-              adaptability, and ethical leadership. 
+              adaptability, and ethical leadership.
             </p>
           </div>
 
-          <div className="col col-12 col-sm-12 col-md-4 col-lg-4 col-xl-3 col-xxl-3">
+          <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
             <div class="card">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxW0vxekzrOGprKjsb4vNqawbj24TQJbOlNkQ-gnbvTA&s"
+                src="https://sbce.ac.in/wp-content/themes/sbce/images/buddha.jpg"
                 class="card-img-top"
                 alt="..."
               />
               <div class="card-body">
                 <p class="card-text">
                   Sree Buddha College of Engineering, Pattoor
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div class="card">
+              <img
+                src="https://sbce.ac.in/wp-content/uploads/2017/05/1-1-e1582310189554.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Sree Buddha College of Engineering, affiliated to Kerala
+                  Technological University, has been par excellence in technical
+                  education. The sermons of Lord Buddha gave us a lead to be the
+                  flowers of exaltation. The primary objective is to promote
+                  education and research in the field of technology and to
+                  replenish the skills that get lurked .
                 </p>
               </div>
             </div>
